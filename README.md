@@ -1,9 +1,10 @@
 # Vehicle-Car-detection-and-multilabel-classification 车辆检测和多标签属性识别
 ## 一个基于Pytorch精简的框架，使用YOLO_v3_tiny和B-CNN实现街头车辆的检测和车辆属性的多标签识别。 </br> (A precise pytorch based framework for using yolo_v3_tiny to do vehicle or car detection and attribute's multilabel classification or recognize)
 
-## Tranied models-vehicle detection and Tranied models-vehicle classification files
-These files (which are impossible to download from original makers' site) could be found now in root of this project.
-[Tranied models-vehicle detection](https://mega.nz/file/rRxmjZhJ#U2sjj66vVq32xzHnLKIKR7IiYcDucKVaM3vAyKkNWR0)
+## Tranied models-vehicle detection and Tranied models-vehicle classification files </br>
+These files (which are impossible to download from original makers' site) could be found now here: </br>
+[Tranied models-vehicle detection](https://mega.nz/file/rRxmjZhJ#U2sjj66vVq32xzHnLKIKR7IiYcDucKVaM3vAyKkNWR0) </br>
+[Tranied models-vehicle classification](https://mega.nz/file/CApkDZjA#Nx7yzvHx9PL-lpzrLB3JGmft9zhEu2iOTOvUQ3PF0YU)
 
 ## 效果如下: Vehicle detection and recognition results are as follows： </br>
 ![](https://github.com/CaptainEven/Vehicle-Car-detection-and-multilabel-classification/blob/master/test_result/test_5.jpg)
